@@ -1,0 +1,6 @@
+venv
+.git
+db.slite3
+.idea
+.vscode
+
